@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/gittest.iml" filepath="$PROJECT_DIR$/.idea/gittest.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/gittest.iml" filepath="$PROJECT_DIR$/gittest.iml" />
+>>>>>>> d73b127... 添加helloworld文件
     </modules>
   </component>
 </project>
